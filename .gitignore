@@ -1,0 +1,25 @@
+target/
+.mvn/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+flask-microservice/bin/
+flask-microservice/lib/
+flask-microservice/lib64
+flask-microservice/pyvenv.cfg
+flask-microservice/share/
+
+## systemfiles
+.DS_Store
